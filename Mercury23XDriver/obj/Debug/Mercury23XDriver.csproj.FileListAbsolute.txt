@@ -1,0 +1,8 @@
+D:\Projects\tu_Mercury23X\Mercury23XDriver\bin\Debug\Mercury23XDriver.dll
+D:\Projects\tu_Mercury23X\Mercury23XDriver\bin\Debug\Mercury23XDriver.pdb
+D:\Projects\tu_Mercury23X\Mercury23XDriver\bin\Debug\LibMeter.dll
+D:\Projects\tu_Mercury23X\Mercury23XDriver\bin\Debug\PortsLib.dll
+D:\Projects\tu_Mercury23X\Mercury23XDriver\bin\Debug\libLogger.dll
+D:\Projects\tu_Mercury23X\Mercury23XDriver\obj\Debug\Mercury23XDriver.csproj.CoreCompileInputs.cache
+D:\Projects\tu_Mercury23X\Mercury23XDriver\obj\Debug\Mercury23XDriver.dll
+D:\Projects\tu_Mercury23X\Mercury23XDriver\obj\Debug\Mercury23XDriver.pdb

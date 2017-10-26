@@ -1,0 +1,13 @@
+D:\Projects\tu_Mercury23X\teplouchetapp\bin\Debug\Resources\meter_ico.ico
+D:\Projects\tu_Mercury23X\teplouchetapp\bin\Debug\Пульсар-инит.exe.config
+D:\Projects\tu_Mercury23X\teplouchetapp\bin\Debug\Пульсар-инит.exe
+D:\Projects\tu_Mercury23X\teplouchetapp\bin\Debug\Пульсар-инит.pdb
+D:\Projects\tu_Mercury23X\teplouchetapp\bin\Debug\Mercury23XDriver.dll
+D:\Projects\tu_Mercury23X\teplouchetapp\bin\Debug\Mercury23XDriver.pdb
+D:\Projects\tu_Mercury23X\teplouchetapp\obj\x86\Debug\Mercury23XGroupFormsApp.csprojResolveAssemblyReference.cache
+D:\Projects\tu_Mercury23X\teplouchetapp\obj\x86\Debug\elfextendedapp.Form1.resources
+D:\Projects\tu_Mercury23X\teplouchetapp\obj\x86\Debug\elfextendedapp.Properties.Resources.resources
+D:\Projects\tu_Mercury23X\teplouchetapp\obj\x86\Debug\Mercury23XGroupFormsApp.csproj.GenerateResource.Cache
+D:\Projects\tu_Mercury23X\teplouchetapp\obj\x86\Debug\Mercury23XGroupFormsApp.csproj.CoreCompileInputs.cache
+D:\Projects\tu_Mercury23X\teplouchetapp\obj\x86\Debug\Пульсар-инит.exe
+D:\Projects\tu_Mercury23X\teplouchetapp\obj\x86\Debug\Пульсар-инит.pdb
